@@ -1,0 +1,18 @@
+.header-container{
+    font-size: 30px;
+    text-align: center;
+    background-color: #ffcb37;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    
+}
+.nav-bar a{
+    text-decoration: none;
+    padding: 20px;
+    margin: 5px;
+}
+.nav-bar{
+    text-align: center;
+    font-size: 20px;
+    background-color: yellow;
+}
